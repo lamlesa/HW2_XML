@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Drugs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Drug>
+		<Name>Амфетамин</Name>
+		<Death_Dose>100</Death_Dose>
+	</Drug>
+	<Drug>
+		<Name>Кокаин</Name>
+		<Death_Dose>200</Death_Dose>
+</Drug>
+	<Drug>
+		<Name>ЛСД</Name>
+		<Death_Dose>150</Death_Dose>
+	</Drug>
+</Drugs>
